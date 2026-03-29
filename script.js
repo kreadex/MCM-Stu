@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const targetDate = new Date('2025-03-01T18:00:00+03:00'); // 18:00 по московскому времени (UTC+3)
+    const targetDate = new Date('2026-12-01T18:00:00+03:00'); // 18:00 по московскому времени (UTC+3)
     console.log("Целевая дата:", targetDate);
 
     const daysElement = document.getElementById('days');
